@@ -47,7 +47,8 @@ int main(/*int argc, char* argv[]*/)
 	}
 
 	takeGuess(islanders, rightAnswer);
-
+	char dummy;
+	cin >> dummy;
 	return 0;
 }
 
